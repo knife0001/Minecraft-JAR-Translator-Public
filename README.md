@@ -1,6 +1,6 @@
-MinecraftJarTranslator v0.1.1-beta (Windows x64)
+MinecraftJarTranslator v0.1.0-beta (Windows x64)
 ================================================
-[![Download v0.1.1 Beta](https://img.shields.io/badge/Download-v0.1.1%20Beta-blue?style=for-the-badge&logo=windows)](https://github.com/knife0001/Minecraft-JAR-Translator-Public/releases/download/v0.1.0-beta/MinecraftJarTranslator-v0.1.0-beta-win-x64.zip)
+[![Download v0.1.0 Beta](https://img.shields.io/badge/Download-v0.1.0%20Beta-blue?style=for-the-badge&logo=windows)](https://github.com/knife0001/Minecraft-JAR-Translator-Public/releases/download/v0.1.0-beta/MinecraftJarTranslator-v0.1.0-beta-win-x64.zip)
 系統需求
 - Windows 10 或 Windows 11，64-bit。
 - 翻譯時需要可連線至 Internet。
